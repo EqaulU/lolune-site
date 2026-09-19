@@ -15,7 +15,7 @@ iPhone アプリ **tabiato** の紹介サイト。GitHub Pages で配信して�
 | `assets/logo-mark.png` | ロゴの絵。アプリ本体の `assets/brand/logo_mark.png` と同じもの |
 | `assets/logo-wordmark.png` | ロゴの文字。同じく `logo_wordmark.png` |
 | `assets/hero.png` | トップのヒーロー画像。`app_icon_squared.png` |
-| `assets/icon-*.png` | favicon と apple-touch-icon。`app_icon.png` から生成 |
+| `assets/icon-16.png` / `icon-32.png` / `icon-180.png` | favicon と apple-touch-icon。`app_icon.png` から生成 |
 | `.nojekyll` | Jekyll のビルドを無効化し、静的ファイルをそのまま配信する |
 
 ビルド不要。`main` へ push するとそのまま公開される。
