@@ -1,8 +1,8 @@
-# tabiato-site
+# lolune-site
 
-iPhone アプリ **tabiato** の紹介サイト。GitHub Pages で配信している静的サイト。
+iPhone アプリ **lolune** の紹介サイト。GitHub Pages で配信している静的サイト。
 
-公開 URL: https://eqaulu.github.io/tabiato-site/
+公開 URL: https://eqaulu.github.io/lolune-site/
 
 ## 構成
 
