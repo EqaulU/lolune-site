@@ -34,8 +34,12 @@ iPhone アプリ **lolune** の紹介サイト。GitHub Pages で配信してい
 
 問い合わせ先は `loluneapp@gmail.com`。プライバシーポリシーとサポートの両方で同じものを使う。
 
-## 未了
+## App Store
 
-- App Store のリンクは Coming Soon で止めてある
+2026-09-23 に公開した。
+
+- https://apps.apple.com/jp/app/lolune/id6814073570
+
+トップの App Store ボタンはここへ繋いである。バージョンを上げても URL は変わらない。
 
 アプリ本体のリポジトリは別（private）。
